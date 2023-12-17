@@ -1,7 +1,8 @@
+![logo]()
 <h1 align="center">Hi 👋, I'm Harsh Kesharwani</h1>
 <h3 align="center">I'm passionate about Web Development</h3>
 
-<img aign="right" alt="Web Developer" width="400" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif"/>
+<img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
 
 <p aign="left"><img src="https://komarev.com/ghpvc/?username=harshgithup&label=Profile%20views&color=0e75b6&style=flat" alt="harshgithup"/></p>
 
@@ -28,3 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshgithup&show_icons=true&locale=en&layout=compact" alt="harshgithup" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshgithup&show_icons=true&locale=en" alt="harshgithup" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshgithup&" alt="harshgithup" /></p>
