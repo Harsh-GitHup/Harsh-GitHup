@@ -1,3 +1,5 @@
+![logo](https://github.com/harshgithup/harshgithup/assets/116560172/8eaf1244-afd0-414c-9e5b-e7032d7ae98c)
+
 <h1 align="center">Hi 👋, I'm Harsh Kesharwani</h1>
 <h3 align="center">I'm passionate about Web Development</h3>
 
