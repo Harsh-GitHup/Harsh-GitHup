@@ -7,7 +7,7 @@
 
 <p aign="left"><img src="https://komarev.com/ghpvc/?username=harshgithup&label=Profile%20views&color=0e75b6&style=flat" alt="harshgithup"/></p>
 
-- 🔭 I’m currently working on [Data Visualization](https://github.com/harshgithup/data_visualization_by_harsh)
+- 🔭 I’m currently working on [Data Visualization](https://github.com/harshgithup/Data_Visualization)
 
 - 🌱 I’m currently learning **Django**
 
