@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **harshkesharwani037@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://Harsh-GitHup.github.io/My-Portfolio/assets/Harsh_Kesharwni_Resume.pdf)
+- 📄 Know about my experiences [Resume](https://Harsh-GitHup.github.io/assets/Harsh_Kesharwani_Resume.pdf)
 
 - ⚡ Fun fact **I am funny🤣**
 
@@ -23,7 +23,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/linkedin/harsh_kesharwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin/harsh_kesharwani" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22368178/harsh-kesharwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22368178/harsh-kesharwani" height="30" width="40" /></a>
-<a href="https://instagram.com/creative_boy_harsh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="creative_boy_harsh1" height="30" width="40" /></a>
+<a href="https://instagram.com/creative_boy_harsh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+ alt="creative_boy_harsh1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
