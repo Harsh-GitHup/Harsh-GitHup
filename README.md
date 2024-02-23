@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **harshkesharwani037@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://Harsh-GitHup.github.io/assets/Harsh_Kesharwani_Resume.pdf)
+- 📄 Know about my experiences [Resume](https://harsh-githup.github.io/My-Portfolio/assets/Harsh_Kesharwani_Resume.pdf)
 
 - ⚡ Fun fact **I am funny🤣**
 
