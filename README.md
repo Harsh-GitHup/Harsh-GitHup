@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Harsh-gitHup&show_icons=true&locale=en" alt="harshgithup" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-GitHup&" alt="harshgithup" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=Harsh-GitHup&" alt="harshgithup" /></p>
