@@ -99,7 +99,7 @@
   ![Trophies](https://github-profile-trophy-87ayvnqae-ryo-ma-s-team.vercel.app/?username=Harsh-GitHup&theme=light&no-frame=false&no-bg=false&margin-w=5)
 </div>
 
-### ✍️ Random Dev Quote
+### ✍️ Devloper Quote
 
 <div align="center">
 
