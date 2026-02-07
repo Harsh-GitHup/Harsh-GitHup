@@ -93,8 +93,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Harsh-GitHup&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Harsh github stats" />
-  <img width="38%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-GitHup&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Harsh github stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats-fast.vercel.app/api?username=Harsh-GitHup&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Harsh github stats" />
+  <img width="38%" height="195px" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Harsh-GitHup&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Harsh github stats" />
   <img width="49%" height="195px" src="https://nirzak-streak-stats.vercel.app/?user=Harsh-GitHup&theme=dark&hide_border=true&stroke=00bfbf&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Harsh github stats" />
 </div>
 
