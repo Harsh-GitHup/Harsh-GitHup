@@ -16,15 +16,15 @@
 
 **I'm passionate about Web Development and Data Science. I love to create web applications and work on data-driven projects.**
 
-- 🔭 I'm currently working on Data Visualization Tool
-- 👯 I'm looking to collaborate on ML Projects
-- 🤝 I'm looking for help with AI
+- 🔭 I'm currently working on **Data Visualization Tool**
+- 👯 I'm looking to collaborate on **ML Projects**
+- 🤝 I'm looking for help with **AI**
 - 🌱 I'm currently learning **Django**
 - 💬 Ask me about **Web Development** and **Data Science**
 - 📫 How to reach me [**harshkesharwani037@gmail.com**](mailto:harshkesharwani037@gmail.com)
 - 👨‍💻 All of my projects are available at my [**Portfolio**](https://harsh-githup.github.io/My-Portfolio)
 - 📄 Know about my experiences [**Resume**](https://harsh-githup.github.io/My-Portfolio/assets/Harsh_Kesharwani_Resume.pdf)
-- ⚡ Fun fact I am funny 🤣
+- ⚡ Fun fact: **I am funny** 🤣
 
 </div>
 
@@ -54,6 +54,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%2344A833?style=for-the-badge&logo=node.js&logoColor=white)
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -72,6 +73,7 @@
 
 ### 🔧 Tools & Environment
 
+![Linux](https://img.shields.io/badge/Linux-%23E33332?style=for-the-badge&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -80,11 +82,11 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-<!-- ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) -->
 
 ### ☁️ Deployment & DevOps
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-%23131313.svg?style=for-the-badge&logo=railway&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
@@ -95,7 +97,7 @@
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats-fast.vercel.app/api?username=Harsh-GitHup&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Harsh github stats" />
   <img width="38%" height="195px" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Harsh-GitHup&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Harsh github stats" />
-  <img width="49%" height="195px" src="https://nirzak-streak-stats.vercel.app/?user=Harsh-GitHup&theme=dark&hide_border=true&stroke=00bfbf&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Harsh github stats" />
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-GitHup&theme=dark&hide_border=true&stroke=00bfbf&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Harsh github stats" />
 </div>
 
 ## 📈 GitHub Activity Graph
@@ -109,10 +111,10 @@
 
 <div align="center">
 
-  ![Trophies](https://github-profile-trophy-87ayvnqae-ryo-ma-s-team.vercel.app/?username=Harsh-GitHup&no-frame=false&no-bg=false&margin-w=5)
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=Harsh-GitHup&theme=darkhub&no-frame=false&margin-w=5)
 </div>
 
-### ✍️ Devloper Quote
+### ✍️ Developer Quote
 
 <div align="center">
 
@@ -130,5 +132,5 @@
 
 <div align="center">
 
-  ![Header Image](https://capsule-render.vercel.app/api?type=waving&center=true&vCenter=true&color=00bfbf&width=10&height=120&section=footer)
+  ![Footer Image](https://capsule-render.vercel.app/api?type=waving&center=true&vCenter=true&color=00bfbf&width=1000&height=120&section=footer)
 </div>
