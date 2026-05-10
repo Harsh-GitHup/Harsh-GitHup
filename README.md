@@ -152,7 +152,7 @@ Experienced in modern frontend technologies, backend development, REST APIs, dat
 | 🗂️ **Portfolio** | Personal portfolio website showcasing projects and skills | [Open](https://github.com/Harsh-GitHup/My-Portfolio) |
 | 🧑‍💻 **Blog Platform** | Blogging platform with user authentication and content management | [Open](https://github.com/Harsh-GitHup/blog-platform) |
 | 🎵 **Music Player** | Simple music player application with playlist management | [Open](https://github.com/Harsh-GitHup/music-player) |
-| 🧑‍🍳 **Recipe Finder** | Recipe search application using Spoonacular API | [Open](https://github.com/Harsh-GitHup/recipe-finder) |
+| 🧑‍🍳 **Recipe Finder** | Recipe search application using TheMealDB API | [Open](https://github.com/Harsh-GitHup/recipe-finder) |
 | 🌤️ **Weather App** | Weather forecasting application using external APIs | [Open](https://github.com/Harsh-GitHup/WeatherApp) |
 | 🧩 **Tic Tac Toe Game** | Classic Tic Tac Toe game with AI opponent | [Open](https://github.com/Harsh-GitHup/Tic-Tac-Toe) |
 | 🪨 **Rock Paper Scissors Game** | Interactive Rock Paper Scissors game with score tracking | [Open](https://github.com/Harsh-GitHup/rock-paper-scissor) |
