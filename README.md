@@ -3,34 +3,50 @@
 <div align="center">
 
   ![Header Image](https://capsule-render.vercel.app/api?type=waving&center=true&vCenter=true&color=00bfbf&width=1000&height=120&section=header)
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO+👋,+MY+NAME+is+Harsh+Kesharwani;I+am+Full+Stack+Python+Developer;This+is+My+GitHub+Profile;Be+Welcome!!!+:%29)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00BFBF&center=true&vCenter=true&width=900&lines=Full+Stack+Python+Developer;Web+Developer+%7C+Open+Source+Enthusiast;Data+Science+%26+Machine+Learning+Learner;Building+Scalable+and+Modern+Applications)
 </div>
 
 ---
 
-<img align="right" alt="coding" width="400" height="320" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
+## 🚀 Professional Summary
 
-<div align="left">
+<img align="right" width="370" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif"/>
 
-![Visit Count](https://komarev.com/ghpvc/?username=Harsh-GitHup&label=Profile%20views&color=0e75b6&style=flat&) &nbsp; ![GitHub followers](https://img.shields.io/github/followers/Harsh-GitHup?label=Followers&style=social) &nbsp; ![GitHub stars](https://img.shields.io/github/stars/Harsh-GitHup?label=Stars&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=Harsh-GitHup&label=Profile%20Views&color=00bfbf&style=social)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/Harsh-GitHup?label=Followers&style=social)
+&nbsp;
+![Stars](https://img.shields.io/github/stars/Harsh-GitHup?label=Stars&style=social)
 
-**I'm passionate about Web Development and Data Science. I love to create web applications and work on data-driven projects.**
+Passionate and detail-oriented **Full Stack Python Developer** focused on building scalable web applications, automation tools, and data-driven solutions.
 
-- 🔭 I'm currently working on **Data Visualization Tool**
-- 👯 I'm looking to collaborate on **ML Projects**
-- 🤝 I'm looking for help with **AI**
-- 🌱 I'm currently learning **Django**
-- 💬 Ask me about **Web Development** and **Data Science**
-- 📫 How to reach me [**harshkesharwani037@gmail.com**](mailto:harshkesharwani037@gmail.com)
-- 👨‍💻 All of my projects are available at my [**Portfolio**](https://harsh-githup.github.io/My-Portfolio)
-- 📄 Know about my experiences [**Resume**](https://harsh-githup.github.io/My-Portfolio/assets/Harsh_Kesharwani_Resume.pdf)
-- ⚡ Fun fact: **I am funny** 🤣
+Experienced in modern frontend technologies, backend development, REST APIs, databases, and deployment workflows.
+
+- 🔭 Currently building **Automation & Analytics Tools**
+- 🌱 Exploring **Django, AI Integration, and Cloud Deployment**
+- 👯 Open to collaborating on **Open Source & ML Projects**
+- 💡 Interested in **Full Stack Engineering, AI, and DevOps**
+- 💬 Ask me about **Python, Web Development, APIs, and Data Science**
+- 👨‍💻 All of my projects are available at my [**Portfolio**](https://harshportfolio-beta.vercel.app/)
+- ⚡ Fun fact: I enjoy turning complex problems into clean solutions
+
+<!-- <br clear="right"/> -->
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://harsh-githup.github.io/My-Portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshkesharwani/)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harsh-GitHup)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@harshkesharwani037)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22368178)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/harsh_7987)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/HarshKesha91325)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/creative_boy_harsh1)
 
 </div>
 
-## 🌐 Socials
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://harsh-githup.github.io/My-Portfolio) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/creative_boy_harsh1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/harshkesharwani/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@harshkesharwani037) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22368178) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/harsh_7987) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/HarshKesha91325) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harsh-GitHup)
 
 ## 💻 Tech Stack
 
@@ -92,7 +108,7 @@
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats-fast.vercel.app/api?username=Harsh-GitHup&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Harsh github stats" />
@@ -100,33 +116,64 @@
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-GitHup&theme=dark&hide_border=true&stroke=00bfbf&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Harsh github stats" />
 </div>
 
-## 📈 GitHub Activity Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
   ![Harsh github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harsh-GitHup&area=true&hide_border=true&bg_color=0d1117&color=00bfbf&line=00bfbf&point=00bfbf)
 </div>
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Trophies
 
 <div align="center">
 
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=Harsh-GitHup&theme=darkhub&no-frame=false&margin-w=5)
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=Harsh-GitHup&theme=darkhub&no-frame=true&margin-w=10&row=1)
 </div>
 
-### ✍️ Developer Quote
+## 🔝 Top Contributed Repos
 
 <div align="center">
 
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  ![Top Contributors](https://top-contributors-otg.vercel.app/api/contributors?username=Harsh-GitHup)
 </div>
 
-### 🔝 Top Contributed Repo
+## ✨ Featured Projects
+
+<div align="center">
+
+| 🚀 Projects | 📖 Description | 🔗 Repository |
+|---|---|---|
+| 🧑‍💻 **Team Task Manager Frontend** | Collaborative task management app with analytics and reporting UI | [Open](https://github.com/Harsh-GitHup/team-task-manager-frontend) |
+| 🧑‍💻 **Team Task Manager Backend** | RESTful API for the team task management application | [Open](https://github.com/Harsh-GitHup/team-task-manager-backend) |
+| 🧠 **AI Voice Assistant** | AI-powered chatbot for natural language conversations | [Open](https://github.com/Harsh-GitHup/voice-assistant) |
+| 🗄️ **File Organizer** | File management and organization utility built with Python | [Open](https://github.com/Harsh-GitHup/file-organizer) |
+| 🏦 **ATM Management System** | Banking and ATM simulation system with transaction handling | [Open](https://github.com/Harsh-GitHup/ATM-Management-System) |
+| 📚 **Library Management System** | Library management application for handling books and records | [Open](https://github.com/Harsh-GitHup/Library-Management-System) |
+| 🗂️ **Portfolio** | Personal portfolio website showcasing projects and skills | [Open](https://github.com/Harsh-GitHup/My-Portfolio) |
+| 🧑‍💻 **Blog Platform** | Blogging platform with user authentication and content management | [Open](https://github.com/Harsh-GitHup/blog-platform) |
+| 🎵 **Music Player** | Simple music player application with playlist management | [Open](https://github.com/Harsh-GitHup/music-player) |
+| 🧑‍🍳 **Recipe Finder** | Recipe search application using Spoonacular API | [Open](https://github.com/Harsh-GitHup/recipe-finder) |
+| 🌤️ **Weather App** | Weather forecasting application using external APIs | [Open](https://github.com/Harsh-GitHup/WeatherApp) |
+| 🧩 **Tic Tac Toe Game** | Classic Tic Tac Toe game with AI opponent | [Open](https://github.com/Harsh-GitHup/Tic-Tac-Toe) |
+| 🪨 **Rock Paper Scissors Game** | Interactive Rock Paper Scissors game with score tracking | [Open](https://github.com/Harsh-GitHup/rock-paper-scissor) |
+| 🛍️ **E-commerce Website** | Full-stack e-commerce platform with product management and payment integration | [Open](https://github.com/Harsh-GitHup/e-commerce-website) |
+| 📊 **Data Visualization Tool** | Interactive web based tool to create dashboards for visualizing complex datasets with charts and graphs | [Open](https://github.com/Harsh-GitHup/data-visualization-tool) |
+
+</div>
+
+## ✍️ Developer Quote
+
+<div align="center">
+
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&font=Inter&animation=twinkling&color=00bfbf)
+</div>
+
+<!-- ## 🔝 Top Contributed Repo
 
 <div align="center">
 
   ![Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Harsh-GitHup&limit=5&theme=dark&combine_all_yearly_contributions=true)
-</div>
+</div> -->
 
 ---
 
