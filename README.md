@@ -143,21 +143,25 @@ Experienced in modern frontend technologies, backend development, REST APIs, dat
 
 | 🚀 Projects | 📖 Description | 🔗 Repository |
 |---|---|---|
-| 🧑‍💻 **Team Task Manager Frontend** | Collaborative task management app with analytics and reporting UI | [Open](https://github.com/Harsh-GitHup/team-task-manager-frontend) |
-| 🧑‍💻 **Team Task Manager Backend** | RESTful API for the team task management application | [Open](https://github.com/Harsh-GitHup/team-task-manager-backend) |
+| 📊 **Data Visualization Tool** | Interactive web based tool to create dashboards for visualizing complex datasets with charts and graphs | [Open](https://github.com/Harsh-GitHup/data-visualization-tool) |
+| 🛍️ **E-commerce Website** | Full-stack e-commerce platform with product management and payment integration | [Open](https://github.com/Harsh-GitHup/e-commerce-website) |
 | 🧠 **AI Voice Assistant** | AI-powered chatbot for natural language conversations | [Open](https://github.com/Harsh-GitHup/voice-assistant) |
 | 🗄️ **File Organizer** | File management and organization utility built with Python | [Open](https://github.com/Harsh-GitHup/file-organizer) |
 | 🏦 **ATM Management System** | Banking and ATM simulation system with transaction handling | [Open](https://github.com/Harsh-GitHup/ATM-Management-System) |
 | 📚 **Library Management System** | Library management application for handling books and records | [Open](https://github.com/Harsh-GitHup/Library-Management-System) |
-| 🗂️ **Portfolio** | Personal portfolio website showcasing projects and skills | [Open](https://github.com/Harsh-GitHup/My-Portfolio) |
-| 🧑‍💻 **Blog Platform** | Blogging platform with user authentication and content management | [Open](https://github.com/Harsh-GitHup/blog-platform) |
-| 🎵 **Music Player** | Simple music player application with playlist management | [Open](https://github.com/Harsh-GitHup/music-player) |
-| 🧑‍🍳 **Recipe Finder** | Recipe search application using TheMealDB API | [Open](https://github.com/Harsh-GitHup/recipe-finder) |
+| 🧑‍💻 **Team Task Manager API** | RESTful API for the team task management application | [Open](https://github.com/Harsh-GitHup/team-task-manager-backend) |
+| 🧑‍💻 **Team Task Manager UI** | Collaborative task management app with analytics and reporting UI | [Open](https://github.com/Harsh-GitHup/team-task-manager-frontend) |
+| ✍️ **Blog Platform** | Blogging platform with user authentication and content management | [Open](https://github.com/Harsh-GitHup/blog-platform) |
 | 🌤️ **Weather App** | Weather forecasting application using external APIs | [Open](https://github.com/Harsh-GitHup/WeatherApp) |
+| 🧑‍🍳 **Recipe Finder** | Recipe search application using TheMealDB API | [Open](https://github.com/Harsh-GitHup/recipe-finder) |
+| 🎵 **Music Player** | Simple music player application with playlist management | [Open](https://github.com/Harsh-GitHup/music-player) |
+| 🗂️ **Portfolio** | Personal portfolio website showcasing projects and skills | [Open](https://github.com/Harsh-GitHup/My-Portfolio) |
+| 📱 **Zerodha Clone** | Simple clone of the Zerodha trading platform | [Open](https://github.com/Harsh-GitHup/ang-zerodha-clone) |
+| 📝 **Todo List** | Simple todo list application with local storage | [Open](https://github.com/Harsh-GitHup/Todo-List) |
+| 🧠 **Mind Reader** | Simple website for reading thoughts with random number guessing | [Open](https://github.com/Harsh-GitHup/Mind-Reader) |
+| 🫧 **Digital Bubble Wrap** | Interactive digital bubble wrap simulation | [Open](https://github.com/Harsh-GitHup/digital-bubble-wrap) |
 | 🧩 **Tic Tac Toe Game** | Classic Tic Tac Toe game with AI opponent | [Open](https://github.com/Harsh-GitHup/Tic-Tac-Toe) |
 | 🪨 **Rock Paper Scissors Game** | Interactive Rock Paper Scissors game with score tracking | [Open](https://github.com/Harsh-GitHup/rock-paper-scissor) |
-| 🛍️ **E-commerce Website** | Full-stack e-commerce platform with product management and payment integration | [Open](https://github.com/Harsh-GitHup/e-commerce-website) |
-| 📊 **Data Visualization Tool** | Interactive web based tool to create dashboards for visualizing complex datasets with charts and graphs | [Open](https://github.com/Harsh-GitHup/data-visualization-tool) |
 
 </div>
 
