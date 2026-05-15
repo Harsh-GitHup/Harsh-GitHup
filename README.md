@@ -161,7 +161,7 @@ Experienced in modern frontend technologies, backend development, REST APIs, dat
 | 🧠 **Mind Reader** | Simple website for reading thoughts with random number guessing | [Open](https://github.com/Harsh-GitHup/Mind-Reader) |
 | 🫧 **Digital Bubble Wrap** | Interactive digital bubble wrap simulation | [Open](https://github.com/Harsh-GitHup/digital-bubble-wrap) |
 | 🧩 **Tic Tac Toe Game** | Classic Tic Tac Toe game with AI opponent | [Open](https://github.com/Harsh-GitHup/Tic-Tac-Toe) |
-| 🪨 **Rock Paper Scissors Game** | Interactive Rock Paper Scissors game with score tracking | [Open](https://github.com/Harsh-GitHup/rock-paper-scissor) |
+| 🪨 **Rock Paper Scissor Game** | Interactive Rock Paper Scissors game with score tracking | [Open](https://github.com/Harsh-GitHup/rock-paper-scissor) |
 
 </div>
 
