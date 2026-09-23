@@ -120,7 +120,7 @@ Experienced in modern frontend technologies, backend development, REST APIs, dat
 
 <div align="center">
 
-  ![Harsh github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harsh-GitHup&area=true&hide_border=true&bg_color=0d1117&color=00bfbf&line=00bfbf&point=00bfbf)
+  <img src="https://raw.githubusercontent.com/Harsh-GitHup/Harsh-GitHup/main/profile-3d-contrib/profile-night-view.svg" alt="Harsh's 3D Contribution Calendar" width="100%" />
 </div>
 
 ## 🏆 Achievements & Trophies
