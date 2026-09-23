@@ -30,8 +30,6 @@ Experienced in modern frontend technologies, backend development, REST APIs, dat
 - 👨‍💻 All of my projects are available at my [**Portfolio**](https://harshportfolio-beta.vercel.app/)
 - ⚡ Fun fact: I enjoy turning complex problems into clean solutions
 
-<!-- <br clear="right"/> -->
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -46,7 +44,6 @@ Experienced in modern frontend technologies, backend development, REST APIs, dat
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/creative_boy_harsh1)
 
 </div>
-
 
 ## 💻 Tech Stack
 
@@ -113,28 +110,33 @@ Experienced in modern frontend technologies, backend development, REST APIs, dat
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats-fast.vercel.app/api?username=Harsh-GitHup&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Harsh github stats" />
   <img width="38%" height="195px" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Harsh-GitHup&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Harsh github stats" />
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-GitHup&theme=dark&hide_border=true&stroke=00bfbf&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Harsh github stats" />
+  <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=Harsh-GitHup&theme=dark&hide_border=true&stroke=00bfbf&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Harsh github stats" />
 </div>
 
 ## 📈 Contribution Graph
 
 <div align="center">
-
-  <img src="https://raw.githubusercontent.com/Harsh-GitHup/Harsh-GitHup/main/profile-3d-contrib/profile-night-view.svg" alt="Harsh's 3D Contribution Calendar" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harsh-GitHup/Harsh-GitHup/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harsh-GitHup/Harsh-GitHup/output/github-contribution-grid-snake.svg">
+    <img alt="Harsh's Contribution Grid Snake" src="https://raw.githubusercontent.com/Harsh-GitHup/Harsh-GitHup/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
 ## 🏆 Achievements & Trophies
 
 <div align="center">
-
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=Harsh-GitHup&theme=darkhub&no-frame=true&margin-w=10&row=1)
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90px" alt="Quickdraw" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90px" alt="YOLO" />
+  <!-- <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90px" alt="Pull Shark" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90px" alt="Pair Extraordinaire" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="90px" alt="Starstruck" /> -->
 </div>
 
 ## 🔝 Top Contributed Repos
 
 <div align="center">
-
-  ![Top Contributors](https://top-contributors-otg.vercel.app/api/contributors?username=Harsh-GitHup)
+  <img src="https://top-contributors-otg.vercel.app/api/contributors?username=Harsh-GitHup" alt="Top Contributors" />
 </div>
 
 ## ✨ Featured Projects
@@ -168,8 +170,7 @@ Experienced in modern frontend technologies, backend development, REST APIs, dat
 ## ✍️ Developer Quote
 
 <div align="center">
-
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&font=Inter&animation=twinkling&color=00bfbf)
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&font=Inter&animation=twinkling&color=00bfbf" alt="Quote" />
 </div>
 
 <!-- ## 🔝 Top Contributed Repo
@@ -182,6 +183,5 @@ Experienced in modern frontend technologies, backend development, REST APIs, dat
 ---
 
 <div align="center">
-
-  ![Footer Image](https://capsule-render.vercel.app/api?type=waving&center=true&vCenter=true&color=00bfbf&width=1000&height=120&section=footer)
+  <img src="https://capsule-render.vercel.app/api?type=waving&center=true&vCenter=true&color=00bfbf&width=1000&height=120&section=footer" alt="Footer Image" />
 </div>
