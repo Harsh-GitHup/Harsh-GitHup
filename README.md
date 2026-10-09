@@ -2,15 +2,16 @@
 
 <div align="center">
 
-  ![Header Image](https://capsule-render.vercel.app/api?type=waving&center=true&vCenter=true&color=00bfbf&width=1000&height=120&section=header)
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00BFBF&center=true&vCenter=true&width=900&lines=Full+Stack+Python+Developer;Web+Developer+%7C+Open+Source+Enthusiast;Data+Science+%26+Machine+Learning+Learner;Building+Scalable+and+Modern+Applications)
+![Header Image](https://capsule-render.vercel.app/api?type=waving&center=true&vCenter=true&color=00bfbf&width=1000&height=120&section=header)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00BFBF&center=true&vCenter=true&width=900&lines=Full+Stack+Python+Developer;Web+Developer+%7C+Open+Source+Enthusiast;Data+Science+%26+Machine+Learning+Learner;Building+Scalable+and+Modern+Applications)
+
 </div>
 
 ---
 
 ## 🚀 Professional Summary
 
-<img align="right" width="370" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif"/>
+<img align="right" width="370" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif" alt="Coding GIF" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Harsh-GitHup&label=Profile%20Views&color=00bfbf&style=social)
 &nbsp;
@@ -29,6 +30,8 @@ Experienced in modern frontend technologies, backend development, REST APIs, dat
 - 💬 Ask me about **Python, Web Development, APIs, and Data Science**
 - 👨‍💻 All of my projects are available at my [**Portfolio**](https://harshportfolio-beta.vercel.app/)
 - ⚡ Fun fact: I enjoy turning complex problems into clean solutions
+
+<br>
 
 ## 🌐 Connect With Me
 
@@ -126,11 +129,13 @@ Experienced in modern frontend technologies, backend development, REST APIs, dat
 ## 🏆 Achievements & Trophies
 
 <div align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90px" alt="Quickdraw" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90px" alt="YOLO" />
-  <!-- <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90px" alt="Pull Shark" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90px" alt="Pair Extraordinaire" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="90px" alt="Starstruck" /> -->
+  <a href="https://github.com/Harsh-GitHup?achievement=quickdraw&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90px" alt="Quickdraw" /></a>
+  <a href="https://github.com/Harsh-GitHup?achievement=yolo&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90px" alt="YOLO" /></a>
+  <!-- 
+  <a href="https://github.com/Harsh-GitHup?achievement=pull-shark&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90px" alt="Pull Shark" /></a>
+  <a href="https://github.com/Harsh-GitHup?achievement=pair-extraordinaire&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90px" alt="Pair Extraordinaire" /></a>
+  <a href="https://github.com/Harsh-GitHup?achievement=starstruck&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="90px" alt="Starstruck" /></a> 
+  -->
 </div>
 
 ## 🔝 Top Contributed Repos
@@ -176,8 +181,7 @@ Experienced in modern frontend technologies, backend development, REST APIs, dat
 <!-- ## 🔝 Top Contributed Repo
 
 <div align="center">
-
-  ![Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Harsh-GitHup&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  <img src="https://github-contributor-stats.vercel.app/api?username=Harsh-GitHup&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contributed Repo" />
 </div> -->
 
 ---
