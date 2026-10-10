@@ -28,7 +28,7 @@ Experienced in modern frontend technologies, backend development, REST APIs, dat
 - 👯 Open to collaborating on **Open Source & ML Projects**
 - 💡 Interested in **Full Stack Engineering, AI, and DevOps**
 - 💬 Ask me about **Python, Web Development, APIs, and Data Science**
-- 👨‍💻 All of my projects are available at my [**Portfolio**](https://harshportfolio-beta.vercel.app/)
+- 👨‍💻 All of my projects are available at my [**Portfolio**](https://harshkesharwani.vercel.app/)
 - ⚡ Fun fact: I enjoy turning complex problems into clean solutions
 
 <br>
@@ -37,7 +37,7 @@ Experienced in modern frontend technologies, backend development, REST APIs, dat
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://harsh-githup.github.io/My-Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://harshkesharwani.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshkesharwani/)
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harsh-GitHup)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@harshkesharwani037)
