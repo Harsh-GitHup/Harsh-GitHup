@@ -131,8 +131,8 @@ Experienced in modern frontend technologies, backend development, REST APIs, dat
 <div align="center">
   <a href="https://github.com/Harsh-GitHup?achievement=quickdraw&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90px" alt="Quickdraw" /></a>
   <a href="https://github.com/Harsh-GitHup?achievement=yolo&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90px" alt="YOLO" /></a>
-  <!-- 
   <a href="https://github.com/Harsh-GitHup?achievement=pull-shark&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90px" alt="Pull Shark" /></a>
+  <!-- 
   <a href="https://github.com/Harsh-GitHup?achievement=pair-extraordinaire&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90px" alt="Pair Extraordinaire" /></a>
   <a href="https://github.com/Harsh-GitHup?achievement=starstruck&tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="90px" alt="Starstruck" /></a> 
   -->
